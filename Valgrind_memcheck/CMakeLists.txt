@@ -1,1 +1,0 @@
-add_executable(app_run memtest.cpp BinaryTree.h)
